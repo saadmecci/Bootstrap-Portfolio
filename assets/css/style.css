@@ -136,7 +136,7 @@ h4 {
 
 .pic5 {
 	position: relative;
-	margin: 0px 0px 80px 0px;
+	margin: 0px 0px 90px 0px;
 }
 
 .word5 {
@@ -167,8 +167,19 @@ h4 {
 }
 
 .navbar.navbar-default.navbar-fixed-bottom {
-	text-align: center;
+	border-top-style: solid;
+	border-top-width: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
-
+.submit {
+	background-color: #4aaaa5;
+	border: none;
+	color: #ffffff;
+	padding: 6px 20px 6px 20px;
+	font-size: 16px;
+	cursor: pointer;
+	margin-top: 8px;
+}
 
